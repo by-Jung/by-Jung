@@ -1,6 +1,6 @@
 ### 👋 Contact & Links
 
-[![Tech Blog](https://img.shields.io/badge/Tech_Blog-181717?style=flat-square&logo=githubpages&logoColor=white)]([https://by-jung.github.io/jung_devlog.github.io/](https://by-jung.github.io/jung_devlog.github.io/))
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-181717?style=flat-square&logo=storyblok&logoColor=white)](https://by-jung.github.io/jung_devlog.github.io/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:geonjung4290@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/by-Jung)
 
