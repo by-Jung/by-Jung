@@ -18,7 +18,7 @@ I work with AOSP, vendor customization, device features, and low-level integrati
 I’m comfortable reading and modifying framework / native / vendor code, and troubleshooting cross-layer issues from app to kernel-adjacent areas.
 
 #### 🌐 On the networking side,
-I work with Linux networking concepts such as routing, NAT, PPP, tethering, interface control, and packet flow analysis.  
+I work with Linux networking concepts such as routing, NAT, ROUTING, tethering, interface control, and packet flow analysis.  
 I also handle device communication scenarios involving satellite modules and embedded connectivity.
 
 #### 🛰️ On the domain side,
