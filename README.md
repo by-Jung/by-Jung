@@ -48,13 +48,13 @@ I like organizing technical knowledge, writing things down clearly, and refining
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square)
 ![Routing](https://img.shields.io/badge/Routing-0A66C2?style=flat-square)
 ![iptables](https://img.shields.io/badge/iptables-CC0000?style=flat-square)
-![PPP](https://img.shields.io/badge/PPP-666666?style=flat-square)
 
 #### Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![ADB](https://img.shields.io/badge/ADB-34A853?style=flat-square&logo=android&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 #### Focus & Strengths
 - Android app / service / system integration
